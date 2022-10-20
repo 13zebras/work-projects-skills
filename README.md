@@ -12,31 +12,31 @@ https://bos-store.vercel.app/
 *note: these are all private repos, so I cannot link to the source code*
 
 #### Floating Apes Affiliation
-Staking: https://floating-apes-staking.vercel.app/
-Raffle: https://floating-apes-raffle.vercel.app/
-Auction: https://floating-apes-auctions.vercel.app/#/
+- Staking: https://floating-apes-staking.vercel.app/
+- Raffle: https://floating-apes-raffle.vercel.app/
+- Auction: https://floating-apes-auctions.vercel.app/#/
 
 #### Alder Mages
-Staking: https://staking.aldermages.dev/
-Upgrade: http://upgrades.aldermages.com/
-Raffle: https://raffles.aldermages.dev/
+- Staking: https://staking.aldermages.dev/
+- Upgrade: http://upgrades.aldermages.com/
+- Raffle: https://raffles.aldermages.dev/
 
 #### Pet Solciety 
-Staking: https://pet-solciety-staking.vercel.app/
+-Staking: https://pet-solciety-staking.vercel.app/
 
 #### Doggos
-Staking: https://www.doggos.dog/
-Raffle: https://raffles.doggos.dog/
+- Staking: https://www.doggos.dog/
+- Raffle: https://raffles.doggos.dog/
 
 #### Jikan 
-Dashboard: https://jikan-dashboard.vercel.app/
+- Dashboard: https://jikan-dashboard.vercel.app/
 
 #### Arcane Valley
-Staking: https://staking.arcanevalleyproject.com/
+- Staking: https://staking.arcanevalleyproject.com/
 
 #### Xara City
-Staking: https://xara-city-staking.vercel.app/
+- Staking: https://xara-city-staking.vercel.app/
 
 #### Smoke Heads NFTs
-Staking: https://smoke-heads-staking.vercel.app/
+- Staking: https://smoke-heads-staking.vercel.app/
 
