@@ -6,9 +6,6 @@ Below is a listing with URL's of websites I have worked on, created, etc.
 
 [BOS Mint Pass Shop](https://bos-store.vercel.app/)
 
-## Portfolio Site
-- [Tom Stine Portfolio - Repo](https://github.com/13zebras/portfolio-nextjs)
-
 ## Work with Lucky Dog Studios
 
 *note: these are all private repos, so I cannot link to the source code*
