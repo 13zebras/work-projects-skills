@@ -1,14 +1,14 @@
 # Work, Projects, Skills - Tom Stine
 
-Below is a listing with URL's of websites I have developed or helped develop, all using Next.js and React.
+Websites I have developed or helped develop, all using Next.js and React.
+
+*note: most of these are private repos, so I cannot link to the source code*
 
 ## Freelance
 
 [BOS Mint Pass Shop](https://bos-store.vercel.app/)
 
 ## Work with Lucky Dog Studios
-
-*note: these are all private repos, so I cannot link to the source code*
 
 #### Floating Apes Affiliation
 - [Staking](https://floating-apes-staking.vercel.app/)
