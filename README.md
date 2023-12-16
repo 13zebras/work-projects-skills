@@ -1,6 +1,6 @@
 # Work, Projects, Skills - Tom Stine
 
-Below is a listing with URL's of websites I have worked on, created, etc.
+Below is a listing with URL's of websites I have developed or helped develop, all using Next.js and React.
 
 ## Freelance
 
